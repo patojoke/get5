@@ -5,12 +5,11 @@ csgosl provides one click CSGO server install, maintenance and execution on wind
 Add feature list here, pointers to documentation...
 
 Howtos...
-Install default server (LAN only, no password, ...)
-Install external server
-Add new maps
-- manual (provide links...)
-- workshop maps
-Add map groups
-Workshop map groups
-Troubleshooting
+* Install default server (LAN only, no password, ...)
+* Install external server
+* Add new maps (manual (provide links...), workshop maps)
+* Add map groups
+* Workshop map groups
+* Normal/Advanced mode (Override tab in advanced mode)
+* Troubleshooting
 
