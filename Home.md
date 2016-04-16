@@ -16,3 +16,5 @@ Once installed checkout the following pages on
 There are also help on each of the tabs in the application, "Help on ...". Simply select them from the right sidebar.
 
 In case you discover a bug you may read the [Troubleshooting](Troubleshooting) page on how to enable traces and submit an error report so I can fix the problem.
+
+Finally, developers should read [Developers information](Developers information).
