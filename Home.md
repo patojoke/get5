@@ -6,12 +6,12 @@ To get started head on to [Installing a new server](Installing a new server)
 
 Once installed checkout the following pages on
 
-Host LAN only server
-Host public server
-Host workshop maps
-Host workshop map groups
-Create your own map groups
-Advanced mode
+* [Host LAN only server](Host LAN only server)
+* [Host public server](Host public server)
+* [Host workshop maps](Host workshop maps)
+* [Host workshop map groups](Host workshop map groups)
+* [Create your own map groups](Create your own map groups)
+* [Advanced mode](Advanced mode)
 
 There are also help on each of the tabs in the application, "Help on ...". Simply select them from the right sidebar.
 
