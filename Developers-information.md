@@ -6,9 +6,9 @@ First clone the repo:
 
 Then build everything (see below for building for separate platforms):
 
-`cd csgosl`
-`make install`
-`make`
+`cd csgosl
+make install
+make`
 
 This will download all required components, build windows and linux archives in out/windows/csgosl.zip and out/linux/csgosl.zip.
 
