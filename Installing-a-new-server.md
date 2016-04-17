@@ -1,6 +1,6 @@
-The installation is very similar on Windows and Linux, you simply download a zip file for the intended platform, unzip it,  change directory into the unzipped folder and start csgosl from there. csgosl will then download and install everything needed for your CSGO server.
+You first need to download and install the csgosl application. This installation is very similar on Windows and Linux, you simply download an application zip file for the intended platform, unzip it,  change directory into the unzipped folder and start csgosl from there. csgosl will then download and install everything needed for your CSGO server.
 
-## To install the server on Windows:
+## To install on Windows:
 
 TODO: create gif-anim 
 
@@ -15,7 +15,7 @@ Once ready restart the application and click "Start Server" and your up and runn
 
 You may also want to create a shortcut to `csgosl.vbs` and place it on your desktop.
 
-## To install the server on Linux (Ubuntu):
+## To install on Linux (Ubuntu):
 
 TODO: create gif-anim 
 
