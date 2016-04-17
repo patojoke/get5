@@ -18,9 +18,9 @@ It's a little bit confusing to read about which ports really need to be forwarde
 
 These ports need to be forwarded to the IP address of the machine where you run your server. How this is done depends on the router you use but typically it looks something like this:
 
-Rulename      Ports            TCP/UDP          IP addres
-CSGO-1        27000-27015      Both             192.168.1.200
-CSGO-2        3478,4379,4380   Both             192.168.1.200
+`Rulename      Ports            TCP/UDP          IP addres`<br>
+`CSGO-1        27000-27015      Both             192.168.1.200`<br>
+`CSGO-2        3478,4379,4380   Both             192.168.1.200`<br>
 
 In this example the machine you are running the server on has IP address 192.168.1.200.
 
