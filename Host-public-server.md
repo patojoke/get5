@@ -26,7 +26,7 @@ _(please ignore the dots, just there to keep stuff aligned, yes, I'm useless at 
 
 In this example the machine you are running the server on has IP address 192.168.1.200.
 
-To get a complete and very good walkthrough on how to do this on your router head over to [portforward.com](http://portforward.com/). Select your router in [top left menu](http://portforward.com/english/routers/port_forwarding/routerindex.htm) (you may need to close down a commercial window) and then select the game "Counter-Strike - Global Offensive" and you will find detailed instructions for your router. Here's an example for the Asus RT-AC66U router: [example](http://portforward.com/english/routers/port_forwarding/Asus/RT-AC66U/Counter-Strike_-_Global_Offensive.htm) so you know what you're looking for. 
+To get a complete and very good walkthrough on how to do this on your router head over to [portforward.com](http://portforward.com/). Select your router in [top left menu](http://portforward.com/english/routers/port_forwarding/routerindex.htm) (you may need to close down a commercial window) and then select the game "Counter-Strike - Global Offensive" and you will find detailed instructions for your router. Here's an example for the [Asus RT-AC66U](http://portforward.com/english/routers/port_forwarding/Asus/RT-AC66U/Counter-Strike_-_Global_Offensive.htm) router so you know what you're looking for. 
 
 Good luck!
 
