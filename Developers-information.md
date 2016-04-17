@@ -12,5 +12,5 @@ Then build everything (see below for building for separate platforms):
 
 This will download all required components, build windows and linux archives in out/windows/csgosl.zip and out/linux/csgosl.zip.
 
-When the above steps have been performed you can buidl the different targets separately, e.g. `make windows` or `make linux`.
+When the above steps have been performed you can build the different targets separately, e.g. `make windows` or `make linux`.
 
