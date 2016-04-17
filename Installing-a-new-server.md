@@ -4,7 +4,7 @@ The installation is very similar on Windows and Linux, you simply download a zip
 
 TODO: create gif-anim 
 
-1. Download TBD-link-here to the location where you want to install your server.
+1. Browse to download page at [github](https://github.com/lenosisnickerboa/csgosl/releases) and download the latest csgosl-windows.zip file to the location where you want to install your server.
 1. Unzip the downloaded file. A directory `csgosl` is created.
 1. Double-click the `csgosl` folder, then double-click `csgosl.vbs`.
 1. Click "I understand" button to acknowledge the message dialog about no server being installed.
@@ -24,7 +24,7 @@ The following two packages are required on Linux, install them like this:
 (See [Steamcmd information](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD) for information about lib32gcc1)
 
 `cd <install-location>`<br>
-`wget TBD-link -O csgosl.zip`<br>
+`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.0/csgosl-linux.zip -O csgosl.zip`<br>
 `unzip -o csgosl.zip`<br>
 `cd csgosl`<br>
 `./csgosl.sh`<br>
