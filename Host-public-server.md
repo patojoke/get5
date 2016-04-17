@@ -1,5 +1,5 @@
 ## General
-There's very little you need to do in csgosl to host a public server. Under the Server tab just make sure the lanonly setting is not ticked (it is as a secure default after installation).
+There's very little you need to do in csgosl to host a public server. Under the Server tab just make sure the **lanonly** setting is not ticked (it is as a secure default after installation).
 
 There are however two more things, unrelated to csgosl, you must do to host public servers. The first is to get a Game Server Login Token from Steam. This is a security measure taken by Valve. The second is to setup port forwarding in your router to allow incoming connections from the Internet to the server you want to publish. It's fairly easy, just follow the instructions below.
 
