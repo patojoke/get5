@@ -2,7 +2,7 @@
 
 ![The csgosl application window](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/main.jpg)
 
-To get started head on to [Installing a new server](Installing a new server)
+To get started head over to [Installing a new server](Installing a new server)
 
 Once installed checkout the following pages on
 
