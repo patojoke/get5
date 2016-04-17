@@ -12,4 +12,6 @@ Please note the number next to the "id=..." part in the browser address field. C
 
 The map will from now on show up under the Maps tab and it will also be selectable when you create your own map groups. Also note, once the server has downloaded the map you don't need to host it using the id number any more, your friends will still be automatically download the map from the workshop.
 
+If you host a buggy workshop map which causes the server or connecting clients to crash remove the map folder from /server/csgo/maps/workshop/ and restart csgosl.
+
  **You currently need to restart csgosl to see the map in the maps list. This will be fixed.**
