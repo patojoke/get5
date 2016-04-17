@@ -8,4 +8,4 @@ Please note the number next to the "id=..." part in the browser address field. C
 
 The maps will from now on show up under the Maps tab and they will also be selectable when you create your own map groups.
 
-You currently need to restart csgosl to see the map in the maps list. This will be fixed.
+**You currently need to restart csgosl to see the map in the maps list. This will be fixed.**
