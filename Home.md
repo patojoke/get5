@@ -1,6 +1,6 @@
 # Welcome to the csgosl wiki!
 
-![The csgosl application window](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/main.jpg)
+![The csgosl application window](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/show-main-tabs.gif)
 
 To get started head over to [Installing a new server](Installing a new server)
 
