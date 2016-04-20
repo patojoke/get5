@@ -10,4 +10,4 @@
 * **immediaterestart** No warmup time, the game starts immediately.
 * **killcam** If enabled shows who killed you and that players location on the map.
 * **roundtime** Maximum time to play each round. If the game has not ended after this time it is ended.
-* options custom srcds command line options. Anything entered here is appended to the command line when the server is started. Have a look [here](https://developer.valvesoftware.com/wiki/Command_Line_Options#Source_Dedicated_Server) for available options.
+* **options** custom srcds command line options. Anything entered here is appended to the command line when the server is started. Have a look [here](https://developer.valvesoftware.com/wiki/Command_Line_Options#Source_Dedicated_Server) for available options.
