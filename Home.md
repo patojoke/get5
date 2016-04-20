@@ -6,6 +6,7 @@ To get started head over to [Installing a new server](Installing a new server)
 
 Once installed checkout the following pages on
 
+* [Upgrade a server](Upgrade a server)
 * [Host LAN only server](Host LAN only server)
 * [Host public server](Host public server)
 * [Host workshop maps](Host workshop maps)
