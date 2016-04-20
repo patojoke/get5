@@ -2,7 +2,7 @@ You first need to download and install the csgosl application. The installation 
 
 ## To install on Windows:
 
-Watch installation [clip](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/install-windows.gif) 
+Watch installation [clip](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/install-windows.gif) showing the complete installation + first server start. 
 
 1. Browse to download page at [github](https://github.com/lenosisnickerboa/csgosl/releases) and download the latest csgosl-windows.zip file to the location where you want to install your server.
 1. Unzip the downloaded file. A directory `csgosl-windows` is created. 
