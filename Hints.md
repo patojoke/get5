@@ -1,2 +1,3 @@
 * You can close down csgosl and keep the server running. When you later start csgosl it will adjust to the current server status.
 * If you host a buggy workshop map which causes the server or connecting clients to crash remove the map folder from <your-install-folder>/server/csgo/maps/workshop/<the id of the buggy map> and restart csgosl.
+* If server installation or update fails make sure your disk is not full. A full disk will cause weird error messages during updates (steamcmd will not indicate a full disk but instead just give an error code).
