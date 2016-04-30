@@ -26,7 +26,7 @@ The following two packages are required on Linux, install them like this:
 `cd <install-location>`<br>
 `wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.0.1/csgosl-linux.zip -O csgosl-linux.zip`<br>
 `unzip -o csgosl-linux.zip`<br>
-`cd csgosl-linux`<br>
+`cd csgosl`<br>
 `./csgosl.sh`<br>
 
 Click "I understand" button to acknowledge the message dialog about no server being installed.<br>
