@@ -1,1 +1,3 @@
-TBD
+To enable the advanced pages you need to enable the **fullconfig** option in the Application configuration page and restart csgosl. Once this is done you get a number of new configuration pages containing a lot of options controlling most aspects of your server. [Here's](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars) a list of these options.
+
+Theres one tab named "All_modes" and then a tab per game mode. The tab per game mode controls options for that particular game mode and the tab All_modes (yes, you guessed it...) controls options for all game modes, i.e. what you set here overrides that setting in all game modes. This can be convenient when you don't want game mode specific options.
