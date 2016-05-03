@@ -24,7 +24,7 @@ The following two packages are required on Linux, install them like this:
 (See [Steamcmd information](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD) for information about lib32gcc1)
 
 `cd <install-location>`<br>
-`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.0.4/csgosl-linux.zip -O csgosl-linux.zip`<br>
+`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.0.5/csgosl-linux.zip -O csgosl-linux.zip`<br>
 `unzip -o csgosl-linux.zip`<br>
 `cd csgosl`<br>
 `./csgosl.sh`<br>
