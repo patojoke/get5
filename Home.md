@@ -8,6 +8,7 @@ Once installed checkout the following pages on
 
 * [Upgrade a server](Upgrade a server)
 * [Host LAN only server](Host LAN only server)
+* [Host LAN only server using VLAN](Host LAN only server using VLAN) Will be added soon...
 * [Host public server](Host public server)
 * [Host workshop maps](Host workshop maps)
 * [Host workshop map groups](Host workshop map groups)
