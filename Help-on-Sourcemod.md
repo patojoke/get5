@@ -7,7 +7,7 @@ csgosl separates "good" plugins from "bad" as you will see below. Sourcemod impl
 So a "good" plugin is a plugin which can be used with sourcemod plugin protection enabled, i.e. it should be ok to run on a lanonly as well as a public server.
 A "bad" plugin is a plugin which will only work if sourcemod plugin protection is disabled. This kind of plugin should **NEVER** be used on a public server. But "bad" plugins perform some "good" stuff :) Like weapon skins and knifes... 
 
-By default csgosl is setup so that Sourcemod is only enabled when running a lanonly server. You can enable Sourcemod on public servers by disabling the **lanonly** option. You are still protected by Sourcemod plugin protection and only "good" plugins are allowed to run. So far everything is fine and dandy, if this is all you want, no problems, go ahead and run your server.
+By default csgosl is setup so that Sourcemod is enabled when running a lanonly or public server. You can disable Sourcemod on public servers by enabling the **lanonly** option. You are protected by Sourcemod plugin protection and only "good" plugins are allowed to run. So far everything is fine and dandy, if this is all you want, no problems, go ahead and run your server.
 
 The first part of the Sourcemod config page handles "good" plugins:
 
