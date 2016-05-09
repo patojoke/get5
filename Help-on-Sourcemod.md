@@ -40,7 +40,7 @@ The following "bad" plugins are supported:
 * [Franug-Weapon_Paints](https://github.com/Franc1sco/Franug-Weapon_Paints) (type !ws in chat to get a menu where you can select different weapon skins)
 * [Franug-Knifes](https://github.com/Franc1sco/Franug-Knifes) (type !knife in chat to get a menu where you can select different knives)
 
-This youtube [clip](https://www.youtube.com/watch?v=vsfRU4sJ_LU)showcases these plugins.
+This youtube [clip](https://www.youtube.com/watch?v=vsfRU4sJ_LU) showcases these plugins.
 
 You can reenable **banprotection** but it will take some manual steps to get all "bad" plugin files off the file system. 
 
