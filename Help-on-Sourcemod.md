@@ -29,7 +29,7 @@ But it's fun to be "bad", right? ...
 
 So here follows some more options on the same config page:
 
-![Config Page Sourcemod2](![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod2.jpg))
+![Sourcemod2](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod2.jpg)
 
 
 (controlled by FollowCSGOServerGuidelines in core.cfg)
