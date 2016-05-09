@@ -9,7 +9,7 @@ By default csgosl is setup so that Sourcemod is only enabled when running a lano
 
 The first part of the Sourcemod config page handles "good" plugins:
 
-![Config Page Sourcemod1](![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod1.jpg))
+![Sourcemod1](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod1.jpg)
 
 * **enable** Controls if sourcemod functionality is enabled. This is the manual override switch.
 * **onlylocal** If onlylocal is enabled sourcemod will only be enabled if the server is run in lanonly mode. If you start the server in public mode sourcemod will automatically be completely disabled.
