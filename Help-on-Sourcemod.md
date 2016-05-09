@@ -1,6 +1,4 @@
-Currently being implemented, stay tuned...
-
-<TODO: insert pic here>
+![Config Page Sourcemod1](![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod1.jpg))
 
 This page controls sourcemod functionality.
 
