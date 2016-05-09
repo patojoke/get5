@@ -31,6 +31,8 @@ So here follows some more options on the same config page:
 
 ![Sourcemod2](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod2.jpg)
 
+Following some warning text is the option **banprotection**. This option is by default enabled and ensures that all "bad" plugins are always disabled and that Sourcemod protection 
+
 
 (controlled by FollowCSGOServerGuidelines in core.cfg)
 As long as you run your server in **lanonly** mode you should be fine. 
