@@ -12,4 +12,6 @@ This page controls sourcemod functionality.
 
 
 How to reenable banprotection
+- simple, just tick "banprotection" and disable plugins
+- thorough, remove sourcemod...
 
