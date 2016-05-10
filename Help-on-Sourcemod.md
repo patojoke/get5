@@ -54,7 +54,7 @@ I have entered a new issue for adding full support for reenabling banprotection 
 
 Your're done! 
 
-If you want to be able to run lanonly as well as public servers I recommend two separate installations instead so you don't need to toggle the banprotection option.
+If you want to be able to run lanonly as well as public servers I recommend two separate installations instead so you don't need to toggle the banprotection option. If you want to run "bad" plugins and have friends connect across the Internet you need to setup a VPN for that. It's easy and I have described it [here](https://github.com/lenosisnickerboa/csgosl/wiki/Host%20LAN%20only%20server%20using%20VPN).
 
 Some technical stuff for the curious, safe to ignore:
 
