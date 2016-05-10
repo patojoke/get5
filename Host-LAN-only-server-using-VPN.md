@@ -10,7 +10,7 @@ First you need to download and install the Hamachi software on the machine where
 
 Start Hamachi, register an account and select to create a "New client owned network". Select a descriptive "Network ID:" (e.g. NisseNet) and a password. If the network is not started automatically right-click it and select "Go online". You should now see the connected network with its IP address (something like 12.34.56.78 / 1234:12::4321:1234).
 
-Now start csgosl, head over to the Server config page and enable **lanonly** and enter the IP address from above in the **bindip** field. Now start your server and it should be up and running on your newly created VLAN.
+Now start csgosl (on the same machine), head over to the Server config page and enable **lanonly** and enter the IP address from above in the **bindip** field. Now start your server and it should be up and running on your newly created VLAN.
 
 I did notice repeated error messages in the server console window:
 
