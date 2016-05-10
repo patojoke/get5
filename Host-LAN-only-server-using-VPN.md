@@ -4,7 +4,7 @@ A VPN (Virtual Private Network) is just a way to setup an private network across
 
 The advantage with running a LAN only server is that you are allowed to run more sourcemod plugins which would get you banned if run on a public server.
 
-Please note at this point this description is not fully tested. I have only set it up on my LAN using a csgosl operated server running windows. I will test this further and update this page accordingly. At this point my theory is it should work the same way across the Internet. Please report if this works for you.
+Please note at this point this description is not fully tested. I have only set it up on my LAN using a csgosl operated server running windows. I will test this further and update this page accordingly. At this point my theory is it should work the same way across the Internet. Please report if this works or not for you.
 
 First you need to download and install the Hamachi software on the machine where you want to run the server. Hamachi is free and can be downloaded from [here](http://vpn.net/). 
 
