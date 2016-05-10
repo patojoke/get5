@@ -1,4 +1,4 @@
-This description will show how to setup a LAN only server over VPN allowing friends to connect to your server across the Internet. I will be using Hamachi for setting up the VPN.
+This description will show you how to setup a LAN only server over VPN allowing friends to connect to your server across the Internet. I will be using Hamachi for setting up the VPN.
 
 Please note at this point this description is not fully tested. I have only set it up on my LAN using a csgosl operated server running windows. I will test this further and update this page accordingly. At this point my theory is it should work the same way across the Internet. Please report if this works for you.
 
