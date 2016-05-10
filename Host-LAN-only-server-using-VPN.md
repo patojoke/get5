@@ -24,5 +24,5 @@ Now select "Join an existing network" and select the name of the network you cre
 
 Start CSGO, select "Browse Community Servers". Select the LAN tab and your server should be present. Connect and you're done!
 
-To verify that you really are connecting using the VPN open the console window in CSGO (key ~ by default) and type `status` and hit ENTER. You should now see (a couple of lines down) a line starting with "udp/ip:" and the IP adress of your server (the one you entered in the **bindip** field in csgosl).
+To verify that you really are connecting using the VPN open the console window in CSGO (key ~ by default) and type `status` and hit ENTER. You should now see (a couple of lines down) a line starting with "udp/ip:" and the IP adress of your server (the one you entered in the **bindip** field in csgosl, 12.34.56.78 in the example).
 
