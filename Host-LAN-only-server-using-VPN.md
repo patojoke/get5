@@ -1,3 +1,5 @@
+*** UNDER CONSTRUCTION - NOT FULLY WORKING AND UNRELIABLE ***
+
 This description will show you how to setup a LAN only server over VPN allowing friends to connect to your server across the Internet. I will be using Hamachi for setting up the VPN.
 
 A VPN (Virtual Private Network) is just a way to setup an private network across the Internet. This way you and you friends can connect in the same way you would if you were all connected to the same physical network (in the same building).
