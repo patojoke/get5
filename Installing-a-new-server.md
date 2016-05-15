@@ -13,6 +13,8 @@ Watch installation [clip](https://raw.githubusercontent.com/wiki/lenosisnickerbo
 All required files will now be downloaded and installed. You can follow the progress in the "Console" page.
 Once ready restart the application and click "Start Server" and your up and running!
 
+At this point you may get a question from Windows firewall where you need to allow CSGO full network access. If you run some other firewall you will need to do the same in that firewall instead.
+
 You may also want to create a shortcut to `csgosl.vbs` and place it on your desktop.
 
 ## To install on Linux (Ubuntu):
