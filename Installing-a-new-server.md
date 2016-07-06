@@ -56,4 +56,4 @@ The same procedure is valid for both windows and linux. Just follow the above in
 
 The initial CSGO installation requires ~15GB so make sure you select a location with enough free storage. 
 
-The installation folder may be moved around (e.g. if you run out of storage) and may also be renamed. 
+The installation folder may be copied or moved (renamed), the root folder name is not relevant. This can be used to create new installations, solve out-of-space issues, ...
