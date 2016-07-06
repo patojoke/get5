@@ -45,14 +45,14 @@ This procedure can be used when you already have an up-to-date server installati
 
 The same procedure is valid for both windows and linux. Just follow the above instructions for your operating system but **BEFORE ** you start csgosl for the first time do this:
 
-1. In the folder where you extracted csgosl-xxx.zip (the one containing the executable csgosl.vbs or csgosl.sh file and a bin and mods directory) create two more directories named "server" and "steamcmd" (without the quotes).
+1. In the folder where you extracted csgosl-xxx.zip (the one containing the executable csgosl.vbs or csgosl.sh file and a bin and mods directory) create two more directories named "server" and "steamcmd" (without the quotes, see pic below).
 1. Copy all files from your existing steamcmd folder into the steamcmd folder you just created.
 1. Copy all files from your existing server folder into the "server" folder you just created.
 1. Now continue following the installation instructions above (start csgosl for the first time...)
 
 The installation will proceed but already up-to-date server files will not be downloaded. 
 
-![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/installing-a-new-server-from-existing-server.jpg)
+![Install-from-existing](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/installing-a-new-server-from-existing-server.jpg)
 
 The initial CSGO installation requires ~15GB so make sure you select a location with enough free storage. 
 
