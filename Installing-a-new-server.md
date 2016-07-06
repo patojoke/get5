@@ -52,6 +52,8 @@ The same procedure is valid for both windows and linux. Just follow the above in
 
 The installation will proceed but already up-to-date server files will not be downloaded. 
 
+![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/installing-a-new-server-from-existing-server.jpg)
+
 The initial CSGO installation requires ~15GB so make sure you select a location with enough free storage. 
 
 The installation folder may be moved around (e.g. if you run out of storage) and may also be renamed. 
