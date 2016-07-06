@@ -48,9 +48,9 @@ The same procedure is valid for both windows and linux. Just follow the above in
 1. In the folder where you extracted csgosl-xxx.zip (the one containing the executable csgosl.vbs or csgosl.sh file and a bin and mods directory) create two more directories named "server" and "steamcmd" (without the quotes, see pic below).
 1. Copy all files from your existing steamcmd folder into the steamcmd folder you just created.
 1. Copy all files from your existing server folder into the "server" folder you just created.
-1. Now continue following the installation instructions above (start csgosl for the first time...)
-
-The installation will proceed but already up-to-date server files will not be downloaded. 
+1. Start csgosl (as described above). You will not see the dialog box about no server being installed. 
+1. Click "Update Server" button to allow csgosl setup everything. If your original server was up-to-date no files will be downloaded, else a normal update will be performed.
+1. Done!
 
 ![Install-from-existing](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/installing-a-new-server-from-existing-server.jpg)
 
