@@ -1,1 +1,1 @@
-TBD
+1. If you have problems starting your server make sure you don't have spaces in the folder name where you installed csgosl. csgosl doesn't properly handle spaces.
