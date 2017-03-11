@@ -10,5 +10,5 @@ Watch installation [clip](https://raw.githubusercontent.com/wiki/lenosisnickerbo
 ## To upgrade on Linux (Ubuntu):
 
 `cd <install-location>`<br>
-`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.3.3/csgosl-linux.zip -O csgosl-linux.zip`<br>
+`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v1.4/csgosl-linux.zip -O csgosl-linux.zip`<br>
 `unzip -o csgosl-linux.zip`<br>
