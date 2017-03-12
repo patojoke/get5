@@ -15,6 +15,7 @@ Once installed checkout the following pages on
 * [Create your own map groups](Create your own map groups)
 * [Host multiple server on same host](Host multiple servers on same host)
 * [Advanced mode](Advanced mode)
+* [Custom cvars](Custom cvars)
 
 There is also help on each of the tabs in the application, "Help on ...". Simply select them from the right sidebar.
 
