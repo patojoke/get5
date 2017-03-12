@@ -1,0 +1,1 @@
+csgosl has support for adding custom cvars to the Advanced tabs. 
