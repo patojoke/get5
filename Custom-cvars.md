@@ -6,4 +6,6 @@ It is important to set the correct default value, since the cvar will only be ad
 
 Cvars may be deleted using the delete button right of the cvar.
 
+Often the easiest way to work with custom cvars is to just add them to the All_modes tab and control them from that tab only. 
+
 Note that custom cvar support is pretty basic at the moment. You need to restart csgosl to see the effects of adding or removing cvars. You can add or remove several cvars before you restart csgosl.
