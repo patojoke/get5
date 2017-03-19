@@ -1,3 +1,7 @@
+As of version 1.6 csgosl can now perform the upgrade from within the application. When you get the notification about a new csgosl version simply click "Install" and you're done.
+
+The following text below is of course still valid, should you prefer to upgrade manually.
+
 Upgrading means downloading the new csgosl application and unzip it in the same location you installed csgosl effectively overwriting older files. Your configuration settings, installed maps, ... will of course not be touched.
 
 ## To upgrade on Windows:
