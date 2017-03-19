@@ -23,4 +23,4 @@ Every setting has a "Set default" button (an eraser) to the right of it. Setting
 
 In case you discover a bug you may read the [[Troubleshooting]] page on how to enable traces and submit an error report so I can fix the problem.
 
-Finally, developers should read [Developers information](Developers information).
+Finally, developers should read [[Developers information]]
