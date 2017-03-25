@@ -1,4 +1,4 @@
-First make sure you understand [Advanced mode](Advanced mode). Cvars are added on the advanced tabs and works like other advanced options, i.e. cvars added to the All_modes tab are set in all game modes and cvars added on game mode specific tabs are only set for those modes.
+First make sure you understand [Advanced Mode](https://github.com/lenosisnickerboa/csgosl/wiki/Help-on-Advanced-Tabs/_edit). Cvars are added on the advanced tabs and works like other advanced options, i.e. cvars added to the All_modes tab are set in all game modes and cvars added on game mode specific tabs are only set for those modes.
 
 csgosl has support for adding custom cvars to the Advanced tabs. Custom cvars are added using the "New cvar..." button at the top of the tab. Enter the cvar name, the default value and an optional help text which will be displayed as a tooltip.
 
