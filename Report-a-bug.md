@@ -7,7 +7,7 @@ To report a bug please open a new issue [here](https://github.com/lenosisnickerb
 * screen dump:
 * console output:
 
-The more details you provide the faster I can release a fix for your problem.
+The more details you provide the more likely it is I will be able to fix for your problem.
 
 An example:
 
