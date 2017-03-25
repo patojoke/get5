@@ -21,6 +21,8 @@ There is also help on each of the tabs in the application, "Help on ...". Simply
 
 Every setting has a "Set default" button (an eraser) to the right of it. Settings can also be set to default values per configuration page using the "Set defaults" button on the top right part of the page. Finally, there is a button for setting all settings back to default values. That button is located at the bottom of the Application configuration page.
 
-In case you discover a bug you may read the [[Troubleshooting]] page on how to enable traces and submit an error report so I can fix the problem.
+If you run into problems check out the [[Troubleshooting]] page to see if this problem already has been described. Or check out the [Issues](https://github.com/lenosisnickerboa/csgosl/issues) page.
+
+If the above troubleshooting doesn't help you please report a bug using the [[Report a bug]] page.
 
 Finally, developers should read [[Developers information]]
