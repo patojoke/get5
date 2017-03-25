@@ -4,7 +4,7 @@ csgosl has support for adding custom cvars to the Advanced tabs. Custom cvars ar
 
 It is important to set the correct default value, since the cvar will only be added to the configuration file if its value differs from the default value. So if a cvar is by default disabled use default value 0. When you change the value to 1 it will differ from its default and be added to the proper configuration file.
 
-Cvars may be deleted using the delete button right of the cvar.
+Cvars may be deleted using the delete button to the right of the cvar.
 
 Often the easiest way to work with custom cvars is to just add them to the All_modes tab and control them from that tab only. 
 
