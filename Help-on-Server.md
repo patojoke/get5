@@ -9,3 +9,5 @@
 * **autorestart** If enabled automatically restarts your server if it crashes.
 * **tickrate** Sets the tickrate used for communication between your game client and the server. Will request all connecting game clients to use the stated tickrate.
 * **netmaxfilesize** Affects how large files (maps) can be downloaded from your server. 64 (MB) is the maximum value. This is only valid for user installed non-workshop maps.
+
+![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server2.jpg)
