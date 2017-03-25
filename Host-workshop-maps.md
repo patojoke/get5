@@ -1,6 +1,4 @@
-To host a workshop map you need an **API autorization key** which is issued by Valve on Steam. Just head over to the [Steam Registration page](http://steamcommunity.com/dev/apikey) and generate a key. Copy and paste this key into the **apiauthkey **setting on the Steam tab:
-
-TODO: pictures...
+To host a workshop map you need an **API autorization key** which is issued by Valve on Steam. Just head over to the [Steam Registration page](http://steamcommunity.com/dev/apikey) and generate a key. Copy and paste this key into the **apiauthkey** setting on the Steam tab.
 
 Now you're ready to host your own maps (and map groups).
 
