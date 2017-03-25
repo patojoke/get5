@@ -12,6 +12,7 @@ By default csgosl is setup so that Sourcemod is enabled when running a lanonly o
 The first part of the Sourcemod config page handles "good" plugins:
 
 ![Sourcemod1](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod1.jpg)
+![Sourcemod1](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod2.jpg)
 
 * **enable** Controls if sourcemod functionality is enabled. This is the manual override switch.
 * **onlylocal** If onlylocal is enabled sourcemod will only be enabled if the server is run in lanonly mode. If you start the server in public mode sourcemod will automatically be completely disabled.
@@ -29,7 +30,7 @@ Read more about them [here](https://wiki.alliedmods.net/Map_Management_Plugins_(
 
 If this is not enough for you, you want the "bad" plugins as well, keep reading. And read carefully.
 
-![Sourcemod2](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod2.jpg)
+![Sourcemod2](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-sourcemod3.jpg)
 
 Following some warning text is the option **banprotection**. This option is by default enabled and ensures that all "bad" plugins are always disabled and that Sourcemod protection is enabled.
 
