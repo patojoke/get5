@@ -1,4 +1,4 @@
-Development is performed on linux. I currently run Ubuntu 14.04 but you should be all right with most mainstream distros. 
+Development is performed on linux. I currently run Ubuntu 16.04 (earlier 14.04) but you should be all right with most mainstream distros. 
 
 First clone the repo:
 
@@ -7,6 +7,7 @@ First clone the repo:
 Then build everything (see below for building for separate platforms):
 
 `cd csgosl`<br>
+`. env.sh`<br>
 `make install`<br>
 `make`<br>
 
