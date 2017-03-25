@@ -17,13 +17,12 @@ An example:
 * does it happen every time or just once-in-a-while: every time
 * screen dump: N/A
 * console output: 
-lenos@leox:/pool/temp/csgosltest2/csgosl$ 19:45:19: Getting latest release...
-
+> lenos@leox:/pool/temp/csgosltest2/csgosl$ 19:45:19: Getting latest release...
 > 19:45:19: Wget: https://github.com/lenosisnickerboa/csgosl/releases/latest -> release-info.txt
-19:45:20: Wget: https://github.com/lenosisnickerboa/csgosl/releases/latest -> release-info.txt OK
-19:45:20: Found latest release 1.7
-19:45:20: Running latest release.
-19:45:20: Creating assync update and start script /pool/temp/csgosltest2/csgosl/bin/onstart.sh
-19:45:20: Creating assync update and start script /pool/temp/csgosltest2/csgosl/bin/onrestart.sh
+> 19:45:20: Wget: https://github.com/lenosisnickerboa/csgosl/releases/latest -> release-info.txt OK
+> 19:45:20: Found latest release 1.7
+> 19:45:20: Running latest release.
+> 19:45:20: Creating assync update and start script /pool/temp/csgosltest2/csgosl/bin/onstart.sh
+> 19:45:20: Creating assync update and start script /pool/temp/csgosltest2/csgosl/bin/onrestart.sh
 
 
