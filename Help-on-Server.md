@@ -1,4 +1,4 @@
-![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server.jpg)
+![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server1.jpg)
 
 * **name** The name of your server, shown in the CSGO server browser list. 
 * **password** Protect your server with a password. Must be entered to connect to your server.
