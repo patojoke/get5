@@ -7,10 +7,10 @@
 * **lanonly** Your server will only be reachable from your LAN (Local Area Network).
 * **rcon** If enabled enables the remote server console used to control the server at run time.
 * **rconpassword** Protect your rcon connection with a password. Must be entered to be able to control your server.
-* **updateserveronstart** Performs a csgo server update when csgosl is started.
+* **updateserveronstart** Performs a csgo server update when csgosl is started. Please be patient, it may seem like the application has hung but the update sometimes takes up to a minute to start.
 * **restartserveronstart** Restarts your csgo server when csgosl is started. Server is started if not running.
 * **restartserverat** Restarts your csgo server at certain points in time. Enter times as a space separated list of 24h times, e.g. 05:00 11:00 17:00 23:00.
-* **updateserveronrestart** Performs a csgo server update when csgosl is restarted.
+* **updateserveronrestart** Performs a csgo server update when csgosl is restarted. Please be patient, it may seem like the application has hung but the update sometimes takes up to a minute to start.
 
 ![Server](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server2.jpg)
 * **bindip** IP address which your server should bind to.Leave blank if you don't have a problem with connecting to the server. May e.g. be used when running on a VLAN to force the server to bind to the VLAN.
