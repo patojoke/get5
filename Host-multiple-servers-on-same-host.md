@@ -6,6 +6,6 @@ Now start the new server in the new folder and preferably change at least the fo
 * Server name
 * Server port
 
-If you want to host several public servers I guess you need to re-perform the Steam stuff described in "Hosting public servers" for each installation.
+If you want to host several public servers I guess you need to re-perform the Steam stuff described in [Host public server](https://github.com/lenosisnickerboa/csgosl/wiki/Host-public-server) for each installation.
 
 As mentioned above, if you care about disk space you can use symlinks to reuse most of the csgo installation files. But this is beyond the scope for this short intro.
