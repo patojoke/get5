@@ -1,4 +1,4 @@
-![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server1.jpg)
+![Server](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server1.jpg)
 
 * **name** The name of your server, shown in the CSGO server browser list. 
 * **password** Protect your server with a password. Must be entered to connect to your server.
@@ -12,7 +12,7 @@
 * **restartserverat** Restarts your csgo server at certain points in time. Enter times as a space separated list of 24h times, e.g. 05:00 11:00 17:00 23:00.
 * **updateserveronrestart** Performs a csgo server update when csgosl is restarted.
 
-![Run](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server2.jpg)
+![Server](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-server2.jpg)
 * **bindip** IP address which your server should bind to.Leave blank if you don't have a problem with connecting to the server. May e.g. be used when running on a VLAN to force the server to bind to the VLAN.
 * **autorestart** If enabled automatically restarts your server if it crashes.
 * **tickrate** Sets the tickrate used for communication between your game client and the server. Will request all connecting game clients to use the stated tickrate.
