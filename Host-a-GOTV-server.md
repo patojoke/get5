@@ -1,5 +1,3 @@
-This is coming in the next csgosl release, working on it...
-
 # Background
 Read about [GOTV](https://steamcommunity.com/sharedfiles/filedetails/?id=411316022).
 
