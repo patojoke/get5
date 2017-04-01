@@ -1,1 +1,1 @@
-TODO
+![GOTV](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-gotv.jpg)
