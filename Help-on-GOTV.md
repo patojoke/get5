@@ -16,3 +16,5 @@
 
 * **gotvdelaymapchange** Delay map change until broadcast is finished.
 * **gotvdeltacache** Broadcast smoothness factor.
+
+See more here [[Host a GOTV server]]
