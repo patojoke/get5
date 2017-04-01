@@ -8,7 +8,9 @@ Setup your GOTV server in the csgosl GOTV tab. Most relevant options can be cont
 If your server should be possible to spectate from outside your LAN you need to forward the GOTV port (default 27020) in your router to the IP address of your csgo server. See more about port forwarding on the [[Host public server]] page. For LAN only servers you don't need port forwarding.
 
 # Spectating the server (LAN only)
-To spectate the server enter (in the console window, described how to find here [GOTV](https://steamcommunity.com/sharedfiles/filedetails/?id=411316022)):
+The easiest way to connect and spectate is to select GOTV in the server browser instead of selecting the server itself. But you can also connect using the console window (see more here [GOTV](https://steamcommunity.com/sharedfiles/filedetails/?id=411316022))
+
+To spectate the server enter:
 
 `connect <server-ip-address>:<gotv-port>`
 
