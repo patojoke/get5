@@ -16,6 +16,7 @@ Once installed checkout the following pages on
 * [[Host multiple servers on same host]]
 * [[Advanced mode]]
 * [[Custom cvars]]
+* [[Host a GOTV server]]
 
 There is also help on each of the tabs in the application, "Help on ...". Simply select them from the right sidebar.
 
