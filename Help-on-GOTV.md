@@ -1,6 +1,6 @@
 ![GOTV](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/config-page-gotv.jpg)
 
-* **gotvenabl** Controls if GOTV functionality is enabled or not in the server.
+* **gotvenable** Controls if GOTV functionality is enabled or not in the server.
 * **gotvtitle** GOTV server title.
 * **gotvpassword** Spectators must enter this password to spectate.
 * **gotvmaxclients** Max number of clients allowed to spectate.
