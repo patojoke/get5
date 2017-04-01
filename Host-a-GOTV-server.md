@@ -36,4 +36,8 @@ To stop recording:
 
 `tv_stop`
 
+To play demo:
+
+`playdemo mydemo1`
+
 Demos are stored in Steam\SteamApps\common\Counter-Strike Global Offensive\csgo
