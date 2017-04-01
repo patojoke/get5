@@ -1,7 +1,7 @@
 This is coming in the next csgosl release, working on it...
 
 # Background
-Read more about GOTV [GOTV](https://steamcommunity.com/sharedfiles/filedetails/?id=411316022).
+Read about [GOTV](https://steamcommunity.com/sharedfiles/filedetails/?id=411316022).
 
 # Configure
 Setup your GOTV server in the csgosl GOTV tab. Most relevant options can be controlled from this page.
