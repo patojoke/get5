@@ -1,5 +1,7 @@
 *** UNDER CONSTRUCTION - NOT FULLY WORKING AND UNRELIABLE ***
 
+Update: The below never worked reliably for me. I ended up just setting up a VPN using my ASUS router. I selected an IP range in the LAN IP range and invited external players to connect to my VPN. Worked like a charm. Keeping the below text for potential future updates.
+
 This description will show you how to setup a LAN only server over VPN allowing friends to connect to your server across the Internet. I will be using Hamachi for setting up the VPN.
 
 A VPN (Virtual Private Network) is just a way to setup an private network across the Internet. This way you and you friends can connect in the same way you would if you were all connected to the same physical network (in the same building).
