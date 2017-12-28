@@ -30,7 +30,7 @@ They are:
 * warmod
 * multi1v1 (+flashbangs, kniferounds, online_stats_viewer)
 * gunmenu
-* cksurf [[See more installations details here]]
+* cksurf [[ckSurf hints]]
 
 Read more about them [here](https://wiki.alliedmods.net/Map_Management_Plugins_(SourceMod))
 
