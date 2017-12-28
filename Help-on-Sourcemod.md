@@ -25,6 +25,8 @@ Following these general sourcemod options are options per supported "good" plugi
 * rockthevote
 * nextmap
 * randomcycle
+* gunmenu
+* cksurf
 
 Read more about them [here](https://wiki.alliedmods.net/Map_Management_Plugins_(SourceMod))
 
