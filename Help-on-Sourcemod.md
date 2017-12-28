@@ -18,13 +18,17 @@ The first part of the Sourcemod config page handles "good" plugins:
 * **onlylocal** If onlylocal is enabled sourcemod will only be enabled if the server is run in lanonly mode. If you start the server in public mode sourcemod will automatically be completely disabled.
 * **admins** List all users (separated by space) you want to give sourcemod admin permissions on your server. Users are identified by their steam id (e.g STEAM_1:1:12345678, see [here](https://steamcommunity.com/sharedfiles/filedetails/?id=209000244) for how to obtain this id) or the users ip address (e.g. 192.168.1.123). 
 
-Following these general sourcemod options are options per supported "good" plugin. Currently some of the plugins supplied with the sourcemod package are supported. They are:
+Following these general sourcemod options are options per supported "good" plugin. Currently some of the plugins supplied with the sourcemod package are supported as well as some other requested plugins. 
+
+They are:
 
 * mapchooser
 * nominations
 * rockthevote
 * nextmap
 * randomcycle
+* warmod
+* multi1v1 (+flashbangs, kniferounds, online_stats_viewer)
 * gunmenu
 * cksurf
 
