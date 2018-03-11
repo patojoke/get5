@@ -15,3 +15,5 @@ This will download all required components, build windows and linux archives in 
 
 When the above steps have been performed you can build the different targets separately, e.g. `make windows` or `make linux`.
 
+NOTE: You will need some basic commands like make, wget, zip, unzip, ...
+
