@@ -1,6 +1,6 @@
 # DISCLAIMER
 Please note the below procedure assumes you have been using csgosl in the standard way, i.e. no manual
-editing of config files or manually installed own source mod plugins, ... If you have done this the below procedure will describe how to restore your server but you will have to reapply all your manual changes yourself.
+editing of config files or manually installed own source mod plugins, ... If you have done this the below procedure will describe how to restore your server but you will have to backup and reapply all your manual changes yourself.
 
 # General
 The below procedure will describe how to make a complete but small backup of your server installation. In my test case the entire installation was 16.3GB and the backup was 0.1GB.
