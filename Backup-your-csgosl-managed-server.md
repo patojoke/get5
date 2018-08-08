@@ -24,7 +24,14 @@ windows:<br>
 
 # Backup procedure
 1. Copy source path folder excluding folders `server` and `steamcmd` to backup folder.
+1. Done!
+
+Windows example:
+Browse to your source folder and select all files except the folders mentioned above.
+
+![Select backup source](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-select-source.jpg)
 
 # Restore procedure
 1. Copy backup folder to target folder.
 1. Start server in target folder. csgosl will now reinstall the server files from Valve keeping all your settings.
+1. Done!
