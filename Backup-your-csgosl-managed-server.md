@@ -48,3 +48,5 @@ Paste the files into the backup restore folder (c:\csgosl-restore in the example
 
 Start the server as you usually do by clicking one of the selected files below.
 ![Select backup folder](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-start-server.jpg)
+
+Your server is now reinstalled keeping all your settings.
