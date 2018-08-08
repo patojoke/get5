@@ -10,14 +10,14 @@ The target server will be installed in <some-other-path>/csgosl. The target serv
 # Example paths
 linux:<br>
 Your user name: nisse<br>
-`Source path: /home/nisse/csgosl`
-`Backup path: /home/nisse/csgosl-backup`
-`Restore path: /home/nisse/csgosl-restore`
+`Source path: /home/nisse/csgosl`<br>
+`Backup path: /home/nisse/csgosl-backup`<br>
+`Restore path: /home/nisse/csgosl-restore`<br>
 <br>
 windows:<br>
-`Source path: c:\csgosl`
-`Backup path: c:\csgosl-backup`
-`Restore path: c:\csgosl-restore`
+`Source path: c:\csgosl`<br>
+`Backup path: c:\csgosl-backup`<br>
+`Restore path: c:\csgosl-restore`<br>
 
 # Backup procedure
 1. 
