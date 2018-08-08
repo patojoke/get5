@@ -27,11 +27,21 @@ windows:<br>
 1. Done!
 
 Windows example:
-Browse to your source folder and select all files except the folders mentioned above.
+Browse to your source folder and select all files except the folders mentioned above. (c:\csgosl in the example)
 
-![Select backup source](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-select-source.JPG)
+![Select backup source](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-select-source.jpg)
+
+Paste the files into the backup folder (c:\csgosl-backup in the example)
+
+![Select backup folder](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-folder.jpg)
 
 # Restore procedure
 1. Copy backup folder to target folder.
 1. Start server in target folder. csgosl will now reinstall the server files from Valve keeping all your settings.
 1. Done!
+
+Browse to your backup folder and select all files. (c:\csgosl-backup in the example)
+
+![Select backup folder](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-folder.jpg)
+
+Paste the files into the backup restore folder (c:\csgosl-restore in the example)
