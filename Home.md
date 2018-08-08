@@ -7,6 +7,7 @@ To get started head over to [[Installing a new server]]
 Once installed checkout the following pages on
 
 * [[Upgrade a server]]
+* [[Backup a server]]
 * [[Host LAN only server]]
 * [[Host LAN only server using VPN]]
 * [[Host public server]]
