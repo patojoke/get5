@@ -29,7 +29,7 @@ windows:<br>
 Windows example:
 Browse to your source folder and select all files except the folders mentioned above.
 
-![Select backup source](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-select-source.jpg)
+![Select backup source](https://raw.githubusercontent.com/wiki/lenosisnickerboa/csgosl/pics/backup-select-source.JPG)
 
 # Restore procedure
 1. Copy backup folder to target folder.
