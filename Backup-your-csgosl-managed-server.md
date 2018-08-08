@@ -8,16 +8,16 @@ Your backup will be stored in <backup-path>/csgosl. This folder will only contai
 The target server will be installed in <some-other-path>/csgosl. The target server is the server you restore from the backup.
 
 # Example paths
-linux:
-Your user name: nisse
-Source path: /home/nisse/csgosl
-Backup path: /home/nisse/csgosl-backup
-Restore path: /home/nisse/csgosl-restore
-
-windows:
-Source path: c:\csgosl
-Backup path: c:\csgosl-backup
-Restore path: c:\csgosl-restore
+linux:<br>
+Your user name: nisse<br>
+`Source path: /home/nisse/csgosl`
+`Backup path: /home/nisse/csgosl-backup`
+`Restore path: /home/nisse/csgosl-restore`
+<br>
+windows:<br>
+`Source path: c:\csgosl`
+`Backup path: c:\csgosl-backup`
+`Restore path: c:\csgosl-restore`
 
 # Backup procedure
 1. 
