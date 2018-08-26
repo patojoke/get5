@@ -2,6 +2,9 @@
 Please note the below procedure assumes you have been using csgosl in the standard way, i.e. no manual
 editing of config files or manually installed own source mod plugins, ... If you have done this the below procedure will describe how to restore your server but you will have to backup and reapply all your manual changes yourself.
 
+# UPDATE
+I completely forgot about workshop maps. They will be lost with the method described below. I currently don't have time to test this out but maybe all you need to do is copy the workshop maps as well into the backup and restore them? If so, that's a simple workaround for now. I will look into how to automatically redownload the workshop maps.
+
 # General
 The below procedure will describe how to make a complete but small backup of your server installation. In my test case the entire installation was 16.3GB and the backup was 0.1GB.
 
