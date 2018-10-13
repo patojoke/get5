@@ -1,6 +1,10 @@
 Development is performed on linux. I currently run Ubuntu 18.04 (earlier 14.04 and 16.04) but you should be all right with most mainstream distros (also used Linux Minth 19 Cinnamon).
 
-First clone the repo:
+First make sure some basic tools are installed:
+
+`apt install git make`
+
+Then clone the repo:
 
 `git clone https://github.com/lenosisnickerboa/csgosl.git`
 
@@ -15,5 +19,4 @@ This will download all required components, build windows and linux archives in 
 
 When the above steps have been performed you can build the different targets separately, e.g. `make windows` or `make linux`.
 
-NOTE: You will need some basic commands like make, wget, zip, unzip, ...
 
