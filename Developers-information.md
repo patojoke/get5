@@ -2,7 +2,7 @@ Development is performed on linux. I currently run Ubuntu 18.04 (earlier 14.04 a
 
 First make sure some basic tools are installed:
 
-`apt install git make`
+`sudo apt install git make`
 
 Then clone the repo:
 
