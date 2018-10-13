@@ -1,6 +1,4 @@
-Development is performed on linux. I currently run Ubuntu 16.04 (earlier 14.04) but you should be all right with most mainstream distros.
-
-NOTE: You need to run 32 bit linux, some of the devtools (e.g. tclkit) unfortunately require this.
+Development is performed on linux. I currently run Ubuntu 18.04 (earlier 14.04 and 16.04) but you should be all right with most mainstream distros (also used Linux Minth 19 Cinnamon).
 
 First clone the repo:
 
