@@ -24,6 +24,7 @@ You may watch the clip above showing the Windows installation. The Linux install
 The following packages are required on Ubuntu/Minth, install them like this:<br>
 `sudo apt install tcl libtk-img lib32gcc1 lib32stdc++6 net-tools`<br>
 (See [Steamcmd information](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD) for information about lib32gcc1)
+
 Note: net-tools needed for ifconfig which is used by Steam.
 
 
@@ -32,6 +33,7 @@ The following packages are required on Manjaro, install them like this:<br>
 `sudo pamac install tcl`<br>
 `sudo pamac build tkimg net-tools-debian-ifconfig`<br>
 Note: Lazy use of pamac, could of course be done using pacman only but pamac takes care of the tkimg building stuff which I don't want to bother with.
+
 Note: net-tools-debian-ifconfig needed for ifconfig which is used by Steam.
 
 `cd <install-location>`<br>
