@@ -20,6 +20,7 @@ You may also want to create a shortcut to `csgosl.vbs` and place it on your desk
 ## To install on Linux (Ubuntu, Minth, Manjaro):
 
 You may watch the clip above showing the Windows installation. The Linux installation does the same thing using the command line.
+
 The following packages are required on Ubuntu/Minth, install them like this:<br>
 `sudo apt install tcl libtk-img lib32gcc1 lib32stdc++6`<br>
 (See [Steamcmd information](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD) for information about lib32gcc1)
