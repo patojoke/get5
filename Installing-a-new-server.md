@@ -32,7 +32,7 @@ The following packages are required on Manjaro, install them like this:<br>
 `sudo pacman -Syu pamac`<br>
 `sudo pamac install tcl`<br>
 `sudo pamac build tkimg net-tools-debian-ifconfig`<br>
-Note: Lazy use of pamac, could of course be done using pacman only but pamac takes care of the tkimg building stuff which I don't want to bother with.
+Note: Lazy use of pamac, could of course be done using pacman only but pamac takes care of the building stuff which I don't want to bother with.
 
 Note: net-tools-debian-ifconfig needed for ifconfig which is used by Steam.
 
