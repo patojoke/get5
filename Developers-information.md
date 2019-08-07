@@ -8,9 +8,11 @@ First make sure some basic tools are installed:
 
 Manjaro:
 
-`sudo pacman -Syu unzip`
+`sudo pacman -Syu zip unzip`
 
-Then clone the repo:
+Rest is distro independent.
+
+Clone the repo:
 
 `git clone https://github.com/lenosisnickerboa/csgosl.git`
 
