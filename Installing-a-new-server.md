@@ -17,12 +17,17 @@ At this point you may get a question from Windows firewall where you need to all
 
 You may also want to create a shortcut to `csgosl.vbs` and place it on your desktop.
 
-## To install on Linux (Ubuntu):
+## To install on Linux (Ubuntu, Minth, Manjaro):
 
 You may watch the clip above showing the Windows installation. The Linux installation does the same thing using the command line.
-The following packages are required on Linux, install them like this:<br>
+The following packages are required on Ubuntu/Minth, install them like this:<br>
 `sudo apt install tcl libtk-img lib32gcc1 lib32stdc++6`<br>
 (See [Steamcmd information](https://developer.valvesoftware.com/wiki/SteamCMD#Downloading_SteamCMD) for information about lib32gcc1)
+
+The following packages are required on Manjaro, install them like this:<br>
+`sudo pacman -Syu pamac`<br>
+`sudo pamac install tcl tkimg`<br>
+Note: Lazy use of pamac, could of course be done using pacman only but pamac takes care of the tkimg building stuff which I don't want to bother with.
 
 `cd <install-location>`<br>
 `wget https://github.com/lenosisnickerboa/csgosl/releases/download/v2.7.1/csgosl-linux.zip -O csgosl-linux.zip`<br>
