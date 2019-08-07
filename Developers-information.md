@@ -1,8 +1,14 @@
-Development is performed on linux. I currently run Ubuntu 18.04 (earlier 14.04 and 16.04) but you should be all right with most mainstream distros (also used Linux Minth 19 Cinnamon).
+Development is performed on linux. You should be all right with most mainstream distros.
+
+Ubuntu/Minth:
 
 First make sure some basic tools are installed:
 
 `sudo apt install git make`
+
+Manjaro:
+
+`sudo pacman -Syu unzip`
 
 Then clone the repo:
 
