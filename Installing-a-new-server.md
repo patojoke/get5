@@ -37,7 +37,7 @@ Note: Lazy use of pamac, could of course be done using pacman only but pamac tak
 Note: net-tools-debian-ifconfig needed for ifconfig which is used by Steam.
 
 `cd <install-location>`<br>
-`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v2.7.7/csgosl-linux.zip -O csgosl-linux.zip`<br>
+`wget https://github.com/lenosisnickerboa/csgosl/releases/download/v2.7.8/csgosl-linux.zip -O csgosl-linux.zip`<br>
 `unzip -o csgosl-linux.zip`<br>
 `cd csgosl`<br>
 `./csgosl.sh`<br>
