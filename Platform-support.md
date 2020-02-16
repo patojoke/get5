@@ -7,3 +7,4 @@
   * Minth 19+
   * Manjaro 2019+
 
+Also, see this note on RDP related issues on Windows 2016 build 14393 described in https://github.com/lenosisnickerboa/csgosl/issues/240.
